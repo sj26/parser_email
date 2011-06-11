@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "http://github.com/jrgns/parser_email"
 	},
+  "main": "./parser_email.js",
 	"licenses": [
 		{
 			"type": "MIT",
